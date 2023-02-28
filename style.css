@@ -344,27 +344,27 @@ header .container .menu-bar i {
 
 /* Background Images */
 .slider .slide:nth-of-type(1) {
-	background: var(--dark-blue-color) url(/imgs/01_surveillance.jpg) no-repeat center center/cover;
+	background: var(--dark-blue-color) url(imgs/01_surveillance.jpg) no-repeat center center/cover;
 	background-size: 180%;
 }
 
 .slider .slide:nth-of-type(2) {
-	background: var(--dark-blue-color) url(/imgs/02_surveillance.jpg) no-repeat center center/cover;
+	background: var(--dark-blue-color) url(imgs/02_surveillance.jpg) no-repeat center center/cover;
 	background-size: 140%;
 }
 /* 
 .slider .slide:nth-of-type(3) {
-	background: var(--dark-blue-color) url(/imgs/03_surveillance.jpg) no-repeat center center/cover;
+	background: var(--dark-blue-color) url(imgs/03_surveillance.jpg) no-repeat center center/cover;
 	background-size: 140%;
 }
 
 .slider .slide:nth-of-type(4) {
-	background: var(--dark-blue-color) url(/imgs/04_surveillance.jpg) no-repeat center center/cover;
+	background: var(--dark-blue-color) url(imgs/04_surveillance.jpg) no-repeat center center/cover;
 	background-size: 140%;
 }
 
 .slider .slide:nth-of-type(5) {
-	background: var(--dark-blue-color) url(/imgs/05_surveillance.jpg) no-repeat center center/cover;
+	background: var(--dark-blue-color) url(imgs/05_surveillance.jpg) no-repeat center center/cover;
 	background-size: 140%;
 } */
 
